@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+}
+
+
+/* ---------------------------Classes---------------------------------------- */
+
+.pinkBack{
+    background-color: pink;
+}
+
+.firstClass{
+    font-size: 2rem;
+
+}
+
+.secondClass{
+    font-size: 3rem;
+
+}
+
+.thirdClass{
+    font-size: 1.5rem;
+
+}
+
+/* ---------------------------IDs-------------------------------------------- */
+#firstID{
+    font-size: 4rem;
+    color: blue;
+
+}
+
+#secondID{
+    font-size: 3rem;
+    background-color: green;
+    font-weight: bold;
+
+
+}
