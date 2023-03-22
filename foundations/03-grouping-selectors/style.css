@@ -1,0 +1,17 @@
+
+
+/* ---------------------------------Classes----------------------------- */
+.yesButton{
+
+    font-size: 4rem;
+    background-color: black;
+    color: white;
+    font-family: serif;
+}
+
+.noButton{
+    font-size: 4rem;
+    background-color: yellow;
+    color: black;
+    font-family: serif;
+}
